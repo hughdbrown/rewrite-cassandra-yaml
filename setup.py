@@ -10,8 +10,8 @@ def reqs_from_file(filename):
 
 
 setup(
-    name='rewrite-cassandra-yaml',
-    version='0.1.1',
+    name='rewrite_cassandra_yaml',
+    version='0.0.3',
     description='Script to rewrite a cassandra yaml file to allow remote access',
     author='Hugh Brown',
     author_email='hughdbrown@yahoo.com',
